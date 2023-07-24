@@ -1,12 +1,14 @@
-DESARROLLO DE UN SISTEMA DE DETECCIÓN Y CORRECCIÓN DE ERRORES LINGÜÍSTICOS PARA TRABAJOS DE INVESTIGACIÓN
-Descripción General
-En este repositorio se encuentra el código fuente mostrado en el video adjunto, que exhibe cómo implementar una Inteligencia Artificial capaz de traducir texto de inglés a español.
+# DESARROLLO DE UN SISTEMA DE DETECCIÓN DE CORRECCIÓN DE ERRORES LINGÜÍSTICOS PARA CORREGIR TRABAJOS DE INVESTIGACIÓN
 
-Requisitos
-Para hacer uso de este sistema, necesitarás:
+Código fuente de [este](https://youtu.be/p2sTJYoIwj0) video, en donde se muestra cómo implementar una Inteligencia Artificial capaz de traducir texto de Inglés a Español.
 
-Instalación de Keras Transformer: Utiliza el comando pip install keras-transformer para instalar esta librería.
-Set de entrenamiento: Descarga el set de entrenamiento necesario a través de este enlace.
-Ejecución del código: Ejecuta el código fuente machine-translation-transformers.ipynb desde Google Colab, utilizando GPUs para optimizar el rendimiento.
-Modelo Pre-Entrenado
-Si lo prefieres, puedes optar por utilizar un modelo pre-entrenado, disponible a través de este enlace.
+## Requerimientos
+
+- Instalar la librería [Keras Transformer](https://github.com/CyberZHG/keras-transformer): 
+    pip install keras-transformer
+- Descargar el set de entrenamiento de [este](https://mega.nz/file/3hphFSaI#H8Y_3pa5g8k8C34-Z00U1Inb6TTkuJ73ZpjtIW2VoAs) enlace
+- Ejecutar el código fuente *machine-translation-transformers.ipynb* desde Google Colab usando GPUs
+
+## Modelo pre-entrenado
+
+También es posible usar un modelo pre-entrenado, disponible en [este](https://mega.nz/file/v4wSjIwb#-zjb02yHPFVQWP406JqOMJ7NwOISkE8DVEZ_r_rLFjg) enlace.
